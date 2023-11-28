@@ -23,6 +23,19 @@
   - [⭐️ Show Your Support](#️support)
   - [📝 License](#license)
 
+### Key Features <a name="key-features"></a>
+
+- **Using the ReactJS library**
+- **Using the ReactJS Router library**
+- **Using JSX syntax**
+- **SPA Approach**
+- **Using Redux Toolkit for a global state management**
+- **Fetch API**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
 <!-- PROJECT REQUIREMENTS -->
 
 # 📖 Hello React Front-End <a name="about-project"></a>
@@ -86,6 +99,15 @@ npm start
 👤 **Hafizullah Rasa**
 - GitHub: [Hafiz Rasa](https://https://github.com/hafiz1379)
 - LinkedIn: [Hafiz Rasa](https://www.linkedin.com/in/hafiz1379)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Create the view: All Greetings list**
+- [ ] **Add custom CSS styles to the UI**
+- [ ] **Deploy the final version of the project and share Link Demo in the documentation**
+- [ ] **Create Unit tests using Jest and React testing library**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
